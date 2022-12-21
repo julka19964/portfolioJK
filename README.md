@@ -1,17 +1,14 @@
-Page contains three bookmarks
+Page contains three bookmarks:
 -----------------------
-About me
+>About me
 Includes basic information for potential employer.
----
 Education
----
 Experience
---- 
 Hobbies
 -----------------------
-Projects
+>Projects
 Includes my job in programming.
 -----------------------
-Contact
+>Contact
 It gives possibility to connect with me anytime in any ways.
 -----------------------# portfolioJK
